@@ -1,6 +1,6 @@
 # Ship It Friday
 
-[![make.fun](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a.svg)
+[![make.fun](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a)
 [![rank](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/kongkong070/u-mgwals-ship-it-friday-30bd407a/rank.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a)
 [![reward](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/kongkong070/u-mgwals-ship-it-friday-30bd407a/reward.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a)
 
