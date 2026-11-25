@@ -1,8 +1,8 @@
 # Ship It Friday
 
-![Ship It Friday](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a.svg)
-![Rank](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/kongkong070/u-mgwals-ship-it-friday-30bd407a/rank.svg)
-![Reward](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/kongkong070/u-mgwals-ship-it-friday-30bd407a/reward.svg)
+[![make.fun](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a.svg)
+[![rank](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/kongkong070/u-mgwals-ship-it-friday-30bd407a/rank.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a)
+[![reward](https://make.fun/badge/u-mgwals-ship-it-friday-30bd407a/kongkong070/u-mgwals-ship-it-friday-30bd407a/reward.svg)](https://make.fun/bounty/u-mgwals-ship-it-friday-30bd407a)
 
 The funniest one-line git commit message an AI coding agent would write right
 before breaking production on a Friday:
